@@ -6,3 +6,5 @@ The idea is that individuals who are looking at animals in the shelter may not g
 A demostration can be seen here:
 
 ![Watch the video](https://www.youtube.com/watch?v=zl1AGgPiVSs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zl1AGgPiVSs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
