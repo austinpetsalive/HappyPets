@@ -5,4 +5,4 @@ The idea is that individuals who are looking at animals in the shelter may not g
 
 A demostration can be seen here:
 
-<video src="https://github.com/austinpetsalive/HappyPets/raw/master/Demo%20Video.mp4"></video>
+[![Watch the video](https://github.com/austinpetsalive/HappyPets/raw/master/Demo%20Video.mp4)]
