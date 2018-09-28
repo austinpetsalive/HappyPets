@@ -6,3 +6,6 @@ The idea is that individuals who are looking at animals in the shelter may not g
 A demostration can be seen here:
 
 [![Demo HappyPets](https://github.com/austinpetsalive/HappyPets/blob/master/Demo%20Video.gif?raw=true)](https://github.com/austinpetsalive/HappyPets/blob/master/Demo%20Video.mp4?raw=true)
+
+
+[Go Here to Generate QR Codes](https://htmlpreview.github.io/?https://raw.githubusercontent.com/austinpetsalive/HappyPets/master/HappyPets%20Page%20Generator/HappyPets%20QR%20Code%20Generator.html)
