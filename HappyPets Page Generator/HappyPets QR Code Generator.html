@@ -18,7 +18,8 @@
 			function generate(){
 				var url = document.getElementById("url").value;
 				var nameF = document.getElementById("nameF").value;
-				document.getElementById("name).value = nameF;
+				var name = document.getElementById("name);
+			        name.value = nameF;
 				//if (validateYouTubeUrl(url)){
 					url = url.split('&')[0];
 					var code = new QRCode(document.getElementById("qrcode"), {
